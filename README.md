@@ -33,7 +33,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/yourusername/memory-allocation-simulator.git
+git clone https://github.com/aravind220806/Memory-Allocation-Simulator.git
 Compile the Code:
 
 Bash
